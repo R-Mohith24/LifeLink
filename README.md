@@ -1,52 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Ambulance Dispatch System</title>
-<style>
-    body {
-        font-family: Arial, sans-serif;
-        background-color: #f5f8fa;
-        color: #333;
-        margin: 0;
-        padding: 0;
-    }
-    header {
-        background-color: #e53935;
-        color: white;
-        padding: 20px;
-        text-align: center;
-    }
-    h1 {
-        margin: 0;
-    }
-    main {
-        max-width: 900px;
-        margin: auto;
-        padding: 20px;
-    }
-    section {
-        background: white;
-        margin-bottom: 20px;
-        padding: 20px;
-        border-radius: 10px;
-        box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-    }
-    h2 {
-        color: #e53935;
-    }
-    ul {
-        line-height: 1.6;
-    }
-    footer {
-        text-align: center;
-        padding: 15px;
-        background-color: #e53935;
-        color: white;
-        margin-top: 20px;
-    }
-</style>
 </head>
 <body>
 
